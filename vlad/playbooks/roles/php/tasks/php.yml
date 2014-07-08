@@ -203,6 +203,7 @@
   tags: php
   sudo: true
   when: php_pecl_uploadprogress is defined and php_pecl_uploadprogress == "y"
+  ignore_errors: yes
 
 - name: PHP | add PECL uploadprogress apache php.ini setting
   lineinfile: dest=/etc/php5/apache2/php.ini state=present line="extension=uploadprogress.so"

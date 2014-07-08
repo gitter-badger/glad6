@@ -1,0 +1,7 @@
+---
+- name: Ungit | Install Ungit
+  raw: sudo npm install -g ungit
+
+- name: Ungit | Setup local Ungit config file
+  template: src=ungitrc.j2 dest=/home/{{ user }}/.ungitrc
+  tags: node

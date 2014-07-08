@@ -3,3 +3,4 @@
 - include: gitconfig.yml
 - include: ssh_config.yml
 - include: localactions.yml
+- include: gitsetup.yml

@@ -39,6 +39,8 @@
 
   node_install: "n"
 
+  ungit_install: "y"
+
   php_install: "y"
 
   pimpmylog_install: "y"

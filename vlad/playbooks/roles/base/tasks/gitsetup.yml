@@ -1,0 +1,10 @@
+---
+
+- name: Git Setup | grab git-core
+  command: sudo add-apt-repository ppa:git-core/ppa -y
+
+- name: Git Setup | run apt-get update
+  command: sudo apt-get update
+
+- name: Git Setup | install latest version of git
+  command: sudo apt-get install git -y

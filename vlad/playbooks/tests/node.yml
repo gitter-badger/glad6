@@ -8,3 +8,8 @@
   shell: npm -v
   when: node_install is defined and node_install == "y"
   tags: test
+
+- name: Test | npm is installed
+  shell: npm -v
+  when: node_install is defined and node_install == "y"
+  tags: test
