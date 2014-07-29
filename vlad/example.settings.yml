@@ -37,7 +37,7 @@
 
   mysql_install: "y"
 
-  node_install: "n"
+  node_install: "y"
 
   ungit_install: "y"
 
