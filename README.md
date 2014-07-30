@@ -8,12 +8,12 @@ GLAD6 supports the following technologies in addition to Vlad:
 
 * Git > 2.0
 * Ungit
-* Drupal 6 (of course!)
+* Drupal 6
 
 
 Getting started:
 
-If you haven't installed Vlad before, just stop and check that out first.
+If you haven't installed Vlad before, slow down and check [it](https://bitbucket.org/philipnorton42/vlad) out.
 
 
 
