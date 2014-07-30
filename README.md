@@ -1,4 +1,4 @@
-unvlad6 - Vagrant LAMP Ansible Drupal6 Ungit
+glad6 - LAMP Ansible Drupal6 (Vagrant)
 ==================================
 
 A Drupal development platform in a box, with everything you would need to develop Drupal 6 websites.
