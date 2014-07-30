@@ -5,6 +5,8 @@ A Drupal development platform in a box, with everything you would need to develo
 
 This adds the following technologies to vlad:
 
+[Demo](https://drive.google.com/file/d/0B3YPbStVoX6JTHN2Sm5TNEdCUGM/edit?usp=sharing)
+
 * Git > 2.0
 * Ungit
 * Drupal 6
