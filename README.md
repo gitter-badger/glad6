@@ -1,4 +1,4 @@
-GLAD6 - LAMP ansible drupal6 (vagrant)
+GLAD6 - LAMP ansible drupal6 git (vagrant)
 ==================================
 
 
