@@ -1,6 +1,6 @@
-GLAD6 - LAMP ansible drupal6 git (vagrant)
+GLAD6
 ==================================
-
+LAMP Ansible Drupal6 Git Vagrant
 
 A Drupal development platform in a box, with everything you would need to develop Drupal 6 websites. This was created by the Support department at Inclind to support existing Drupal 6 sites. When in rome.. right? Nevermind.
 
