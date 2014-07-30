@@ -5,8 +5,6 @@ A Drupal development platform in a box, with everything you would need to develo
 
 glad6 supports the following technologies in addition to Vlad:
 
-[Demo](https://drive.google.com/file/d/0B3YPbStVoX6JTHN2Sm5TNEdCUGM/edit?usp=sharing)
-
 * Git > 2.0
 * Ungit
 * Drupal 6 (of course!)
